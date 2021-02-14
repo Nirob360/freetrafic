@@ -1,0 +1,39 @@
+@media (max-width: 576px) and (min-width: 100px) {
+  /* home page responsive css code  */
+  .container .row .left-content {
+    margin-top: 28px;
+  }
+  .service-area .service-headign {
+    margin-top: 52px;
+  }
+  .service-area .content-box {
+    margin: 5px;
+  }
+  .Transparency {
+    margin-top: 0px;
+  }
+  .right-img {
+    margin-top: 21px;
+  }
+  .case-stdy {
+    margin: 0px 0;
+  }
+  .price-area .price-top-content {
+    margin: 18px 0;
+  }
+  .company {
+    margin-top: 48px;
+    margin-bottom: 0px;
+  }
+  .footer-area {
+    margin-top: 59px;
+  }
+  /* main-service-page */
+  .service-area-home {
+    padding: 40px;
+  }
+  .case-stdy-home {
+    padding: 40px;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
